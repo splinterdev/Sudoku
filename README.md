@@ -1,6 +1,6 @@
 # Jogo Sudoku em Java
 
-Este foi um desafio de projeto para o bootcamp GFT Start em parceria com a dio, onde precisava-mos desenvolver um sudoku, que usava CLI args para os valores que são fixos e para os valores que se espera do usuário. Baseado na ideia inicial, adicionei um pouco de ANSI escape code, para uma melhor experiência de usuário.
+Este foi um desafio de projeto para o bootcamp GFT Start em parceria com a dio, onde precisávamos desenvolver um sudoku, que usava CLI args para os valores que são fixos e para os valores que se espera do usuário. Baseado na ideia inicial, adicionei um pouco de ANSI escape code para uma melhor experiência de usuário.
 
 # 🔧 Passo a passo básico para rodar o projeto
 
