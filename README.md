@@ -2,21 +2,21 @@
 
 Este foi um desafio de projeto para o bootcamp GFT Start em parceria com a dio, onde precisávamos desenvolver um sudoku, que usava CLI args para os valores que são fixos e para os valores que se espera do usuário. Baseado na ideia inicial, adicionei um pouco de ANSI escape code para uma melhor experiência de usuário.
 
-# 🔧 Passo a passo básico para rodar o projeto
+# 🔧 Passo a passo para rodar o projeto
 
 > [!IMPORTANT]   
-> Use o Git Bash ou terminal da sua preferência que seja compatível com ANSI.
+> Use o CLI da sua preferência que seja compatível com ANSI.
 
-Primeiro, clone o projeto com: 
+Primeiro, clone o projeto (substitua o campo SEU_USERNAME pelo seu nome de usuário): 
 ```bash
-git clone https://github.com/SEU_USERNAME/sudoku-game.git
+git clone https://github.com/SEU_USERNAME/Sudoku.git
 ```
 
-Depois, abra o terminal dentro da pasta src e crie a pasta "out": 
+Depois, abra o terminal dentro da pasta "src" e crie a pasta "out": 
 ```bash
 mkdir out
 ```
-e compile direcionando os arquivos .class para "out": 
+compile direcionando os arquivos .class para "out": 
 ```bash
 javac -d out application/*.java game/*.java enums/*.java
 ```
