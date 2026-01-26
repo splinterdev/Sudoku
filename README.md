@@ -26,11 +26,16 @@ java application.Program "0,0;4,false" "1,0;7,false" "2,0;9,true" "3,0;5,false" 
 ```
 
 # Screenshots
-## Menu inicial
-<img width="911" height="653" alt="image" src="https://github.com/user-attachments/assets/12e9e9d7-9e07-40f2-bcfa-f77e04826cf0" />
+
+<div align=center>
+
+  ## Menu inicial
+<img width="521" height="472" src="https://github.com/user-attachments/assets/c4fb0d56-b2ab-4cb5-a645-f0dc5e60dcf4" /> 
 
 ## Alterando uma linha
-<img width="732" height="623" alt="image" src="https://github.com/user-attachments/assets/86055a85-cb06-45bc-a69d-d4fc688758d2" />
+<img width="521" height="472" src="https://github.com/user-attachments/assets/86055a85-cb06-45bc-a69d-d4fc688758d2" />
 
 ## Alterando uma coluna
-<img width="680" height="651" alt="image" src="https://github.com/user-attachments/assets/adacf281-2510-4d2a-aee1-32048fb9a2ef" />
+<img width="521" height="472" src="https://github.com/user-attachments/assets/adacf281-2510-4d2a-aee1-32048fb9a2ef" />
+
+</div>
