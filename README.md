@@ -1,4 +1,6 @@
-# Jogo Sudoku em Java
+# Jogo Sudoku em Java 
+
+![Java 21.0.6](https://img.shields.io/badge/Java-21.0.6-f08c00?style=flat&logo=openjdk&logoColor=white) 
 
 Este foi um desafio de projeto para o bootcamp GFT Start, onde precisávamos desenvolver um sudoku que usa CLI args para os valores fixos e para os valores que se espera do usuário. Baseado na ideia inicial, adicionei um pouco de ANSI escape code para uma melhor experiência de usuário.
 
