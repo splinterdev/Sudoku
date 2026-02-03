@@ -1,4 +1,4 @@
-# Jogo Sudoku em Java 
+# Sudoku game
 
 ![Java 21.0.6](https://img.shields.io/badge/Java-21.0.6-f08c00?style=flat&logo=openjdk&logoColor=white) 
 
